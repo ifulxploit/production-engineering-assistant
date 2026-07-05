@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables (SANGAT PENTING)
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Knowledge Base Vector DB (File FAISS biasanya besar)
+knowledge/vector_db/
+knowledge/embeddings/
+
+# OS files
+.DS_Store
+Thumbs.db

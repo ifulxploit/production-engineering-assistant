@@ -1,0 +1,71 @@
+{
+  "categories": [
+    {
+      "category": "Jet Pump Troubleshooting",
+      "icon": "⚙️",
+      "questions": [
+        "Pompa jet sumur dangkal tidak bisa prime, apa yang harus saya periksa?",
+        "Pompa jet sumur dalam mengeluarkan air lalu berhenti, apa penyebabnya?",
+        "Kapasitas pompa jet tidak mencapai rated capacity, bagaimana troubleshootingnya?",
+        "Bagaimana cara memeriksa apakah ejector tersumbat pada deep well jet pump?",
+        "Apa yang menyebabkan pompa jet kehilangan prime setelah beroperasi beberapa saat?"
+      ]
+    },
+    {
+      "category": "Water Well Problems",
+      "icon": "💧",
+      "questions": [
+        "Apa itu mineral incrustation dan bagaimana cara mencegahnya?",
+        "Bagaimana cara menangani biofouling pada sumur air?",
+        "Apa penyebab korosi pada casing sumur dan bagaimana mitigasinya?",
+        "Apa dampak over-pumping terhadap umur sumur?",
+        "Bagaimana cara mengatasi masalah dissolved gas (H2S, methane) pada sumur air?"
+      ]
+    },
+    {
+      "category": "Motor & Drive Control",
+      "icon": "🔌",
+      "questions": [
+        "Apa yang dimaksud dengan auto fault reset event pada drive motor?",
+        "Bagaimana cara troubleshooting jika DSP Control Module rusak?",
+        "Apa penyebab bus charge bypass open event?",
+        "Bagaimana cara menangani max fault event ketika restart attempts habis?",
+        "Apa yang harus dilakukan ketika power ridethru sering terjadi?"
+      ]
+    },
+    {
+      "category": "Pump Operations & Events",
+      "icon": "📊",
+      "questions": [
+        "Apa indikasi pump off event dan bagaimana cara mengatasinya?",
+        "Bagaimana cara interpretasi gauge event dan level test event?",
+        "Apa yang dimaksud dengan dwell event pada POC Controller?",
+        "Bagaimana cara memeriksa fault history untuk recurring faults?",
+        "Apa penyebab auto mode event terjadi tanpa operator intervention?"
+      ]
+    },
+    {
+      "category": "Maintenance & Prevention",
+      "icon": "🛠️",
+      "questions": [
+        "Bagaimana cara melakukan shock chlorination untuk mencegah biofouling?",
+        "Apa strategi pengurangan pumping rate untuk mencegah incrustation?",
+        "Bagaimana cara memilih casing material yang tahan korosi?",
+        "Apa tanda-tanda sumur mengalami over-pumping?",
+        "Bagaimana cara memonitor fluid level untuk mencegah pump dry running?"
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.1.0",
+    "last_updated": "2026-07-04",
+    "total_questions": 25,
+    "description": "Daftar pertanyaan contoh berdasarkan Water Well & Jet Pump Troubleshooting PDF",
+    "knowledge_base": [
+      "Shallow Well Jet Pump Troubleshooting Chart",
+      "Deep Well Jet Pump Troubleshooting Chart",
+      "Module 7 - Troubleshooting Water Well Problems",
+      "DC Motor & Drive Control Events Manual"
+    ]
+  }
+}
