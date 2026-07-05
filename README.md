@@ -12,7 +12,7 @@
 
 ![demo](https://raw.githubusercontent.com/ifulxploit/production-engineering-assistant/refs/heads/main/assets/0705.gif)
 <br>
-[Live Demo](#) · [Report Bug](https://github.com/ifulxploit/production-engineering-assistant/issues) · [Request Feature](https://github.com/ifulxploit/production-engineering-assistant/issues)
+[Live Demo](https://petro-assistant.streamlit.app/) · [Report Bug](https://github.com/ifulxploit/production-engineering-assistant/issues) · [Request Feature](https://github.com/ifulxploit/production-engineering-assistant/issues)
 
 </div>
 
