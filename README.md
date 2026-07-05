@@ -1,6 +1,4 @@
-<fsWrite>
-<path>README.md</path>
-<content># 🛢️ Production Engineering Assistant (PEA)
+
 
 <div align="center">
 
@@ -667,7 +665,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Production Engineer | S1 Teknik Perminyakan (2025)  
 Universitas Proklamasi 45
 
-- 📧 Email: [your-email@example.com](mailto:miqdarsaiful@gmail.com)
+- 📧 Email: [miqdarsaiful@gmail.com](mailto:miqdarsaiful@gmail.com)
 - 💼 LinkedIn: [Saiful Miqdar](https://www.linkedin.com/in/saiful-miqdar-7050511b1/)
 - 🐙 GitHub: [@ifulxploit](https://github.com/ifulxploit)
 - 📷 Instagram: [@saiful_miqdar](https://www.instagram.com/saiful_miqdar)
