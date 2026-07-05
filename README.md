@@ -582,16 +582,16 @@ production-engineering-assistant/
 <div align="center">
 
 ### Main Chat Interface
-![Main Interface](screenshots/1.png)
+![Main Interface](https://raw.githubusercontent.com/ifulxploit/production-engineering-assistant/refs/heads/main/assets/screenshots/1.png)
 
 ### Suggestion Chips
-![Suggestion Chips](screenshots/2.png)
+![Suggestion Chips](https://raw.githubusercontent.com/ifulxploit/production-engineering-assistant/refs/heads/main/assets/screenshots/2.png)
 
 ### Professional Response Format
-![Response Format](screenshots/3.png)
+![Response Format](https://raw.githubusercontent.com/ifulxploit/production-engineering-assistant/refs/heads/main/assets/screenshots/3.png)
 
 ### Sidebar with Personal Branding
-![Sidebar](screenshots/4.png)
+![Sidebar](https://raw.githubusercontent.com/ifulxploit/production-engineering-assistant/refs/heads/main/assets/screenshots/4.png)
 
 </div>
 
